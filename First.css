@@ -6,19 +6,18 @@
 .box{
   background:#2db34a;
   height:80px;
-  position:relative;
+  position:absolute;
   width:80px;
   }
 .box-1{
-  top:200px;
+  top:50px;
   }
 .box-2{
-  left:100px;
+  right:50px;
   }
 .box-3{
-  bottom:-100px;
-  right:20px;
-  }
+  bottom:50px;
+    }
 .box-4{
-  right:500;
+  left:50px;
 }
