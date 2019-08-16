@@ -1,0 +1,16 @@
+.box{
+  background:#2db34a;
+  height:80px;
+  position:relative;
+  width:80px;
+  }
+.box1{
+  top:20px;
+  }
+.box2{
+  left:40px;
+  }
+.box3{
+  bottom:-10px;
+  right:20px;
+  }
