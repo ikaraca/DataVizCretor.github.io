@@ -10,18 +10,25 @@
   width:80px;
   }
 .box-1{
+  z-index:2;
   left:50px;
   top:50px;
   }
 .box-2{
+  
+  z-index:2;
   top:50px;
   right:50px;
   }
 .box-3{
+  
+  z-index:4;
   left:50px;
   bottom:50px;
     }
 .box-4{
+  
+  z-index:4;
   right:50px;
   bottom:50px;
 }
